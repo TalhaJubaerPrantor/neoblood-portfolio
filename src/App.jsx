@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1>NeoBlood</h1>
+        <h1><span style={{color:"#e50914" }}>N</span>eo<span style={{color:"#e50914" }}>B</span>lood</h1>
       </header>
 
       <main>
