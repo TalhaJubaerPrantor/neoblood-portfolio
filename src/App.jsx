@@ -25,7 +25,7 @@ function App() {
 
         
 
-        <a href="/app.apk" download className="download-btn">
+        <a href="/neoblood.apk" download className="download-btn">
           Download &nbsp; v.1.0.0
         </a>
       </main>
