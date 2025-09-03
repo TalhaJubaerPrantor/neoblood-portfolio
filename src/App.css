@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -75,7 +75,7 @@ main p {
   display: inline-block;
   padding: 8px 25px;
   font-size: 1.1rem;
-  font-weight: bold;
+  /* font-weight: bold; */
   text-decoration: none;
   color: #fff;
   background: #e50914;

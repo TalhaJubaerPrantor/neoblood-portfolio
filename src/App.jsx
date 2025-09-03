@@ -26,7 +26,7 @@ function App() {
         
 
         <a href="/neoblood.apk" download className="download-btn">
-          Download &nbsp; v.1.0.0
+          Download &nbsp; <span style={{fontSize:"10px !important" }}>v.1.0</span>
         </a>
       </main>
 
