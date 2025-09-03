@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1><span style={{color:"#e50914" }}>N</span>eo<span style={{color:"#e50914" }}>B</span>lood</h1>
+        <h1><span style={{ color: "#e50914" }}>N</span>eo<span style={{ color: "#e50914" }}>B</span>lood</h1>
       </header>
 
       <main>
@@ -23,10 +23,8 @@ function App() {
           {/* <img src="/images/img3.jpg" alt="Feature 3" /> */}
         </div>
 
-        
-
         <a href="/neoblood.apk" download className="download-btn">
-          Download &nbsp; <span style={{fontSize:"10px !important" }}>v.1.0</span>
+          Download &nbsp; <span style={{ fontSize: "10px !important" }}>v.1.0</span>
         </a>
       </main>
 
